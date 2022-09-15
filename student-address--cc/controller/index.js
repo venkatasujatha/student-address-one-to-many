@@ -1,0 +1,1 @@
+module.exports = require('/home/tectoro/Desktop/student-address--cc/controller/student.js')
